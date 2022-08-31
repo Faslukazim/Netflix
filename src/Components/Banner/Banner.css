@@ -3,6 +3,11 @@
     background-size: cover;
     height: 448px;
     color: white;
+    transition: transform 4s;
+}
+.banner:hover{
+    transform: scale(1.04);
+
 }
 .content{
     padding-top: 140px;
