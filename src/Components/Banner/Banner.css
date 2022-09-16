@@ -2,10 +2,10 @@
     background-size: cover;
     height: 448px;
     color: white;
-    transition: transform 4s;
+    transition: transform 2s;
 }
 .banner:hover{
-    transform: scale(1.04);
+    transform: scale(.98);
 
 }
 .content{
