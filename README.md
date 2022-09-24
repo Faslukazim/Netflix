@@ -1,4 +1,4 @@
-Open http://localhost:3000 to view it in your browser.
+Open https://faslukazim.github.io/Netflix/ to view it in your browser.
 
 # Getting Started with Create React App
 
